@@ -5,7 +5,7 @@ public class HIndex {
     public static void main(String[] args) {
         int[] citations = {3,0,6,1,5};
         int hIndex = hIndex(citations);
-        System.out.println(hIndex); // Output: 3
+        System.out.println(hIndex); 
     }
 
     public static int hIndex(int[] citations) {
