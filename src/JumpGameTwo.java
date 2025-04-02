@@ -21,7 +21,6 @@ public class JumpGameTwo {
                 break;
             }
             i++;
-
         }
         return jumps;
     }
