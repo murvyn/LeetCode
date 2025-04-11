@@ -2,8 +2,7 @@
 import java.util.Arrays;
 
 public class Candies {
-    public static void main(String[] args) {
-    }
+    public static void main(String[] args) {}
 
     public static int candy(int[] ratings) {
         int n = ratings.length;
